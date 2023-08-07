@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexander</a> 
+<h1 align="center">Hi there, I'm Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">PHd in political sciense, data analyst from Russia 🇷🇺</h3>
+<h3 align="center"> data analyst, PHd in political sciense, </h3>
 
 - 👋 Hi, I’m @rozhkov1922/ Rozhkov Alexander
 - 👀 I’m interested in data analysis, political science, philosophy
